@@ -1,5 +1,6 @@
 # Customer-Segmentation
 Nexus Bank is a financial institution dedicated to delivering unparalleled banking services to her clients.Her mission is to establish enduring relationships with the customers by providing tailored financial solutions that align with individual needs and goals.
+
 PROBLEM STATEMENT: To Identify patterns and trends in customer behavior to decipher if customer demographics such as age, educational level e.t.c influences customers attitude toward defaulting and also too anticipate the likelihood of subscription to term deposits from customers.
 
 The methodology used in this case study involves the following steps:
