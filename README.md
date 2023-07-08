@@ -1,5 +1,3 @@
-Certainly! Here's a fresh documentation based on the information provided:
-
 # Customer Segmentation
 
 Welcome to the Customer Segmentation project documentation for Nexus Bank. This project aims to analyze customer behavior and preferences to gain insights into customer segmentation and predict their likelihood of defaulting on payments or subscribing to term deposits. By understanding customer segments better, Nexus Bank can tailor its services and strategies to meet the specific needs of different customer groups.
